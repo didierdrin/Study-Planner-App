@@ -57,13 +57,13 @@ lib/
 ├── providers/
 │   └── task_provider.dart   # State management for tasks
 ├── screens/
-│   ├── today_screen.dart    # Today's tasks view
-│   ├── calendar_screen.dart # Calendar with tasks
-│   ├── settings_screen.dart # App settings
-│   ├── new_task_screen.dart # Task creation form
-│   └── notifications_screen.dart # Notification history
+│   ├── today.dart    # Today's tasks view
+│   ├── calendar.dart # Calendar with tasks
+│   ├── settings.dart # App settings
+│   ├── new_task.dart # Task creation form
+│   └── notifications.dart # Notification history
 └── widgets/
-    └── (custom widgets if needed)
+    └── (custom widgets)
 ```
 
 ## Setup Instructions
